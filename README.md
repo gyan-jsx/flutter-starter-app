@@ -1,10 +1,11 @@
-# my_first_app
+# Its a clean flutter starter app.
 
-A new Flutter project.
+>I just include a decremnt and increment counter buttons
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+**Step1**:
+ >`git clone`
 
 A few resources to get you started if this is your first Flutter project:
 

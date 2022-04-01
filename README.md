@@ -1,16 +1,20 @@
-# my_first_app
+# Its a clean flutter starter app.
 
-A new Flutter project.
+>I just include a decremnt and increment counter buttons
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+**Step1** - *cloning the repo*:
+ >`git clone https://github.com/gyan-jsx/flutter-starter-app.git`<br/>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Step2** - *checking the devices*
+ >`flutter devices`<br/>
+ <img src="./.github/flutter-devices.png"/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Step3** - *run on a particular device*
+ >`flutter run -d <device-name>`<br/>
+
+Eaxmples: `flutter run -d chrome` || `flutter run -d Redmi9` || `flutter run -d <your-emulator>` || `flutter run -d <your-simulator>`
+
+
